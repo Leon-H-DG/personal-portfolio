@@ -1,6 +1,7 @@
 /* Change this file to get your personal Portfolio */
 
 import emoji from "react-easy-emoji";
+import resume from "../src/assets/resume/LH_CV.pdf"
 
 // Your Summary And Greeting Section
 
@@ -11,9 +12,9 @@ const greeting = {
     "Front End Developer 👨‍💻 | Full stack Developer 💻"
   ),
   resumeLink:
-    // "https://drive.google.com/file/d/1gsPhoU4Dg-bFSlf3K-SFrKHO0XTBpS0i/view?usp=sharing",
-    // "../../assets/resume/LH_CV.pdf"
-    "data:application/octet-stream;charset=utf-16le;base64,"
+    resume
+    // download file
+    // "data:application/octet-stream;charset=utf-16le;base64,"
 };
 
 // Your Social Media Link
