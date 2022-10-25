@@ -30,7 +30,7 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What I do",
   subTitle:
     "FULL STACK DEVELOPER WITH FOCUS ON FRONT-END WEB-DEVELOPING",
   skills: [
