@@ -152,8 +152,8 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      company: "Prosis GmbH",
+      companylogo: require("./assets/images/prosisLogo.png"),
       date: "June 2018 – Present",
       desc:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -164,17 +164,9 @@ const workExperiences = {
     },
     // {
     //   role: "Front-End Developer",
-    //   company: "Quora",
-    //   companylogo: require("./assets/images/quoraLogo.png"),
-    //   date: "May 2017 – May 2018",
-    //   desc:
-    //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    // },
-    // {
-    //   role: "Software Engineer Intern",
-    //   company: "Airbnb",
-    //   companylogo: require("./assets/images/airbnbLogo.png"),
-    //   date: "Jan 2015 – Sep 2015",
+    //   company: "Prosis GmbH",
+    //   companylogo: require("./assets/images/prosisLogo.png"),
+    //   date: "Sept 2017 – Aug 2021",
     //   desc:
     //     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     // },
@@ -214,31 +206,10 @@ const blogSection = {
   blogs: [
     {
       url:
-        "https://blog.bharatkammakatla.com/selenium-python-automation-framework-how-to-build-cke5vij9p012h9ds1fsaocyax",
-      title: "How to build a Selenium Python Automation Framework",
+        "",
+      title: "",
       description:
-        "Interested in building a test automation framework with selenium and python? If so, check out here !",
-    },
-    {
-      url:
-        "https://blog.bharatkammakatla.com/steps-to-build-a-selenium-java-framework-ckdsi73xg005ga9s1defhemfz",
-      title: "Steps to build a Selenium Java Automation Framework",
-      description:
-        "Interested in building a test automation framework with selenium and java? If so, check out here !",
-    },
-    {
-      url:
-        "https://blog.bharatkammakatla.com/face-expression-recognition-using-keras-and-cnns-ckbevmufo0195dis1dfs10kt1",
-      title: "Building a Machine Learning model to detect human emotions",
-      description:
-        "Are you interested to know how machines detect human emotions? If so, check out here !",
-    },
-    {
-      url:
-        "https://medium.com/@bharatkammakatla/basic-end-to-end-scikit-learn-workflow-cd9e9a50491b?source=friends_link&sk=b828ac262c172abd7508efcbd00e5bd3",
-      title: "Basic End-to-End Scikit-Learn workflow",
-      description:
-        "Do you want to know how a basic end-to-end scikit-learn workflow is implemented ? If so, check out here !",
+        "",
     },
   ],
 };
