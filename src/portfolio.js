@@ -1,7 +1,8 @@
 /* Change this file to get your personal Portfolio */
 
 import emoji from "react-easy-emoji";
-import resume from "../src/assets/resume/LH_CV.pdf"
+import resume from "../src/assets/resume/LH_CV.pdf";
+import itilCert from "../src/assets/certificates/ITIL_cert.pdf";
 
 // Your Summary And Greeting Section
 
@@ -196,8 +197,7 @@ const certifications = {
       title: "ITIL",
       subtitle: "ITIL Foundation in IT Service Management",
       logo_path: "ITIL.jpg",
-      certificate_link:
-        "https://www.udemy.com/certificate/UC-fd118b7d-7436-442c-a7f8-5077c432d596/",
+      certificate_link: itilCert,
       alt_name: "ITIL Foundation",
       color_code: "#FFFDDD",
     },
