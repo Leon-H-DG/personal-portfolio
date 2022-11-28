@@ -153,7 +153,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Prosis GmbH",
-      companylogo: require("./assets/images/prosisLogo.png"),
+      // companylogo: require("./assets/images/prosisLogo.png"),
       date: "June 2018 – Present",
       desc:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
